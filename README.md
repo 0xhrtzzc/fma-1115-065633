@@ -1,3 +1,5 @@
+[![make.fun](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02)
+
 # An entry for make.fun's `free-model-aggregator-02`
 
 One server that answers both the OpenAI and the
